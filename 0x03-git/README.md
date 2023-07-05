@@ -1,1 +1,1 @@
-sudo time
+sudo timer premeirer
